@@ -1,0 +1,65 @@
+## O acidente
+### Descobertas mínimas
+- O condutor estava numa aula prática da autoescola.
+- O instrutor quem é o culpado, por instruir uma curva incorreta.
+- O instrutor foi o homem preso.
+### Detalhes não obrigatórios
+- Os policiais levaram o aluno para casa.
+
+---
+
+## O último trem
+### Descobertas mínimas
+- Sebastião estava falido.
+- Sebastião colecionava trens.
+- Um trem era o seu bem e Sebastião pretendia vendê-lo.
+- O trem caiu.
+### Detalhes não obrigatórios
+- Sebastião estava limpando o trem.
+- Sebastião não posicionou o trem de forma segura.
+- Sebastião se sentou para descansar.
+
+---
+
+## Pulando do sexto andar
+### Descobertas mínimas
+- A mulher pulou para dentro do apartamento, não para fora.
+### Detalhes não obrigatórios
+- A mulher estava prestes a cometer suicídio, mas desistiu.
+
+---
+
+## Um copo d'água
+### Descobertas mínimas
+- O homem estava com soluços.
+- O homem pediu o copo d'água a fim de se livrar dos soluços.
+- O barman percebeu o soluço e quis curá-lo com um susto.
+### Detalhes não obrigatórios
+<vazio>
+
+---
+
+## O apagão
+### Descobertas mínimas
+- A mulher trabalhava em um hospital.
+- O marido da mulher estava nesse mesmo hospital e estava dependendo de aparelhos.
+- Os geradores do hospital não estavam funcionando.
+- A mulher percebe que o apagão desligou os aparelhos que mantinham o marido vivo.
+### Detalhes não obrigatórios
+- A mulher trabalhava como eletricista.
+- O marido da mulher havia sofrido um acidente de carro.
+Explicação: O detalhe da mulher trabalhar no hospital é obrigatório pois se acontece um apagão e ela está em outro lugar, ela pode não saber que os geradores do hospital não estão funcionando. O fato da mulher ser eletricista não é obrigatório pois é de conhecimento geral que geradores fazem com que um hospital não sofra um apagão.
+
+---
+
+## Uma porta aberta
+### Descobertas mínimas
+- Marcelo era um pássaro.
+- A porta aberta era a da gaiola de Marcelo.
+- Um gato decapitou Marcelo.
+### Detalhes não obrigatórios
+- Marcelo era especificamente um canário.
+- O nome do gato era Geraldo.
+- O gato queria comer Marcelo.
+- O dono deixou a porta aberta por engano.
+- O gato decapitou Marcelo com uma mordida.
