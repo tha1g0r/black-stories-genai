@@ -9,3 +9,17 @@ Quando Marcelo acordou naquela manhã, ficou surpreso ao perceber que a porta es
 ## Solução
 
 Marcelo era um canário que vivia em sua gaiola. Geraldo, um gato, estava esperando sua oportunidade para pegar Marcelo e comê-lo. Quando seu dono deixou a porta da gaiola aberta por engano, Marcelo voou para fora e Geraldo não hesitou em arrancar a pequena cabeça de Marcelo com uma mordida.
+
+### Descobertas mínimas
+
+- Marcelo não é um ser humano.
+- Marcelo é um pássaro (canário).
+- A porta mencionada é a porta de uma gaiola.
+- Geraldo é um gato.
+- Geraldo matou Marcelo ao sair da gaiola.
+
+### Detalhes não obrigatórios
+
+- O dono de Marcelo esqueceu a porta da gaiola aberta.
+- Geraldo estava esperando uma oportunidade para atacar.
+- Geraldo comeu Marcelo após o ataque.
