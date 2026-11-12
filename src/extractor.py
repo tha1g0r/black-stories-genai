@@ -101,11 +101,14 @@ def write_processed_card(
     destination = destination_dir / source_path.name
     processed = (
         f"{card.rstrip()}\n\n"
-        "## Classificação gerada pelo extractor\n\n"
         f"{classification.rstrip()}\n"
     )
     destination.write_text(processed, encoding="utf-8")
     return destination
+
+
+def remove_source_card(source_path: Path) -> None:
+    source_path.unlink()
 
 
 def run(args: argparse.Namespace) -> int:
@@ -146,7 +149,8 @@ def run(args: argparse.Namespace) -> int:
                 card,
                 classification,
             )
-            print(f"[OK] {card_path} -> {destination}")
+            remove_source_card(card_path)
+            print(f"[OK] {card_path} -> {destination} (movida)")
         except (OSError, ValueError, errors.APIError) as error:
             failures += 1
             print(f"[ERRO] {card_path}: {error}", file=sys.stderr)

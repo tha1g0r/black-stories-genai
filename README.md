@@ -2,10 +2,10 @@
 
 ## Extractor
 
-O extractor lê as cartas-fonte em `content/cartas-enigma/run-extractor/`,
-envia uma carta por vez à API Gemini e grava uma cópia enriquecida em
-`content/cartas-enigma/facil/`, `medio/` ou `dificil/`, conforme o nível indicado
-na carta.
+O extractor lê as cartas pendentes em `content/cartas-enigma/run-extractor/`,
+envia uma carta por vez à API Gemini, anexa a classificação ao Markdown original
+e move o arquivo enriquecido para `content/cartas-enigma/facil/`, `medio/` ou
+`dificil/`, conforme o nível indicado na carta.
 
 ### Configuração local
 
@@ -38,5 +38,7 @@ alterados:
 python src\extractor.py --model gemini-3.1-flash-lite --delay 2
 ```
 
-As cartas processadas mantêm o Markdown original e recebem a classificação ao
-final. Compare-as manualmente com `docs/anotacoes-dev/descobertas-minimas.txt`.
+As cartas processadas mantêm o Markdown original e recebem as duas seções de
+classificação ao final, sem um H2 adicional. Se uma carta falhar, ela permanece
+em `run-extractor/` para nova tentativa. Compare as cartas processadas
+manualmente com `docs/anotacoes-dev/descobertas-minimas.txt`.
