@@ -17,8 +17,8 @@ from google.genai import types
 
 DEFAULT_INPUT_DIR = Path("content/cartas-enigma/run-extractor")
 DEFAULT_OUTPUT_DIR = Path("content/cartas-enigma")
-DEFAULT_PROMPT = Path("prompts/classificar-descobertas.md")
-DEFAULT_MODEL = "gemini-2.5-flash-lite"
+DEFAULT_PROMPT = Path("prompts/extractor/v1.md")
+DEFAULT_MODEL = "gemini-3.1-flash-lite"
 DIFFICULTY_PATTERN = re.compile(
     r"\*\*Nível de dificuldade:\*\*\s*(Fácil|Médio|Difícil)",
     re.IGNORECASE,

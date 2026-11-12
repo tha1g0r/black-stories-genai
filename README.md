@@ -35,7 +35,7 @@ revisado sem alterar o código. O modelo e o intervalo entre chamadas podem ser
 alterados:
 
 ```powershell
-python src\extractor.py --model gemini-2.5-flash-lite --delay 2
+python src\extractor.py --model gemini-3.1-flash-lite --delay 2
 ```
 
 As cartas processadas mantêm o Markdown original e recebem a classificação ao
